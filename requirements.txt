@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+gurobipy>=11.0
+sympy>=1.12
+pyomo>=6.6
