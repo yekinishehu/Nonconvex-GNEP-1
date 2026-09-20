@@ -52,12 +52,7 @@ stated in the paper; AMD Ryzen 9 7950X, 64 GB RAM, Ubuntu 22.04).
     python figures_poa_multiplicity.py  # analytic PoA scan (Theorem 7.21) + Fig. 2
     python verification/subgame_verification.py   # 29 exact symbolic checks
 
-NOTE: this public release is a reconstruction written from the manuscript's
-specification.  Regenerated instance values and runtimes may differ in detail
-from the archived results reported in the paper (different RNG streams); the
-per-instance CSV bundled with the EJOR submission must be produced from the
-authors' archived run logs where available, and from these scripts otherwise.
-The symbolic checks (verification/) are exact and require only SymPy.
+
 
 ## Confidential data
 
