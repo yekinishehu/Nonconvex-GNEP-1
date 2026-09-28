@@ -1,5 +1,4 @@
-# Code and Data — "Fixed-Charge Network Design Games: Tight Approximation Complexity
-and a Certified Equilibrium Algorithm"
+# Code and Data — "Fixed-Charge Network Design Games: Tight Approximation Complexity and a Certified Equilibrium Algorithm"
 
 Companion repository for the EJOR submission by Yekini Shehu and Yonghong Yao.
 All code is Python 3. See the main text, Section 8, for the experimental protocol
